@@ -74,7 +74,7 @@
   width: 180px;
   background-color: brown;
   border: 3px solid grey;
-  margin: -187px 7px 7px calc(63% - 190px);
+  margin: -187px 7px 7px calc(40% + 190px);
   float: inherit;
 }
 
@@ -83,6 +83,6 @@
   width: 180px;
   background-color: brown;
   border: 3px solid grey;
-  margin: 7px 7px -187px calc(63% - 190px);
+  margin: 7px 7px -187px calc(40% + 190px);
   float: inherit;
 }
